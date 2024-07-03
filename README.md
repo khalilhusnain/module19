@@ -39,7 +39,7 @@ This project is a Progressive Web Application (PWA) that functions as a text edi
 
 ## Deployment
 
-To deploy this application to Render, follow the [Render Deployment Guide](https://www.thefullstackblog.com/render-deployment-guide).
+To deploy this application to Render, follow the [Render Deployment Guide](https://coding-boot-camp.github.io/full-stack/render/render-deployment-guide).
 
 
 
